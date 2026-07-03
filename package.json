@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/vishala1234/autosuggest/issues"
   },
-  "homepage": "https://github.com/vishala1234/autosuggest#readme"
+  "homepage": "https://github.com/vishala1234/autosuggest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
