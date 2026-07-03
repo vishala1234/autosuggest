@@ -7,3 +7,4 @@ app.listen(PORT,function(){
     console.log("successfully running at http://localhost:"+PORT)
 })
 //'npm install express'from ternimal
+
